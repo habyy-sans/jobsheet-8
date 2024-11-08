@@ -12,7 +12,9 @@ public class triangle16 {
             j++;
         }
         i++;
+        System.out.println();
         }
+       
     }
     
 }
